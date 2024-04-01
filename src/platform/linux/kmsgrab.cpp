@@ -199,6 +199,7 @@ namespace platf {
       _CONVERT("eDP"sv, eDP);
       _CONVERT("VIRTUAL"sv, VIRTUAL);
       _CONVERT("Virtual"sv, VIRTUAL);
+      _CONVERT("Meta"sv, VIRTUAL);
       _CONVERT("DSI"sv, DSI);
       _CONVERT("DPI"sv, DPI);
       _CONVERT("WRITEBACK"sv, WRITEBACK);
